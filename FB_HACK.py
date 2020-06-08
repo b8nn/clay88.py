@@ -45,7 +45,6 @@ time.sleep(0.3)
 print ("[12] " + an_password + name)
 time.sleep(0.3)
 print ("[13] " + 1122334455
-time.sleep(0.3)
 print ("[14] " + admin123)
 time.sleep(0.3)       
 print ("[15] " + Admin5)
